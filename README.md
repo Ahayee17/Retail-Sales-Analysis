@@ -17,9 +17,9 @@ The dataset used in this project contains retail sales information including:
 4- Pricing information (Price per unit, COGS, Total sale amount)   
 
 ## 🛠️ Technologies Used
-Database: PostgreSQL   
-Language: SQL   
-Tools: pgAdmin / PostgreSQL CLI   
+**Database:** PostgreSQL   
+**Language:** SQL   
+**Tools:** pgAdmin / PostgreSQL CLI   
 
 ## 🛠️ Project Structure
 ### 1. Database Setup
