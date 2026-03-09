@@ -16,6 +16,11 @@ The dataset used in this project contains retail sales information including:
 3- Product category, Quantity sold   
 4- Pricing information (Price per unit, COGS, Total sale amount)   
 
+## 🛠️ Technologies Used
+Database: PostgreSQL   
+Language: SQL   
+Tools: pgAdmin / PostgreSQL CLI   
+
 ## 🛠️ Project Structure
 ### 1. Database Setup
 **Table Creation:** A table named retail_sales is created to store the sales data.   
